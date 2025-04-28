@@ -45,10 +45,10 @@ Dijkstra’s algorithm is used to determine the most efficient route
 
 # 📈 Evaluation Metrics
 
-Accuracy (Train, Test, CV)
-F1-Score, Precision, Recall
-Mean Squared Error (MSE)
-Classification Reports for interpretability
+- Accuracy (Train, Test, CV)
+- F1-Score, Precision, Recall
+- Mean Squared Error (MSE)
+- Classification Reports for interpretability
 
 # 🛠 Technologies Used
 
@@ -65,6 +65,15 @@ Integration of real-time weather and flight status APIs
 Use of ensemble learning or deep learning for enhanced predictions
 Incorporation of passenger preferences in route planning
 Scalability testing with larger, more diverse datasets
+
+# 👥 Authors
+
+Zeynep Sude Kırmacı
+Gizem Erol
+Selvinaz Zeynep Kıyıkcı
+
+CEN435 – Machine Learning Project
+Autumn 2024, Final Report
 
 # 📚 References
 
